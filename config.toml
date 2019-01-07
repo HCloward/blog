@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://heathercl.gitlab.io/blog/"
 languageCode = "en-us"
 title = "Heather Cloward"
 theme = "minimal"
