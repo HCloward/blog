@@ -1,0 +1,67 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Heather Cloward"
+theme = "minimal"
+#disqusShortname = "username" # delete this to disable disqus comments
+#googleAnalytics = ""
+
+[params]
+    author = "Heather Cloward"
+    profilePic = "/me.jpg"
+    description = "Content developer, avid learner, coding hobbyist, voracious reader, newbie knitter, trail runner."
+    githubUsername = "heathercloward"
+    gitlabUsername = "heatherCl"
+    accent = "#a71f4b"
+    showBorder = true
+    backgroundColor = "#ba408d26"
+    font = "Bree Serif" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    favicon = "/fox.ico"
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
+    weight = 2
+
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 3
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:heathercloward@gmail.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/HCloward"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://gitlab.com/heatherCl"
+    name = "gitlab"
+    weight = 5
+
+[[menu.icon]]
+    url = "https://twitter.com/HeatherCloward1/"
+    name = "twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/heather-cloward-uxc-a4417878/"
+    name = "linkedin"
+    weight = 4
+
+
