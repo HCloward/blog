@@ -18,7 +18,7 @@ theme = "minimal"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    favicon = "/fox.ico"
+    favicon = "fox.ico"
 
 [[menu.main]]
     url = "/"
