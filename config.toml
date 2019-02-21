@@ -8,7 +8,7 @@ theme = "minimal"
 [params]
     author = "Heather Cloward"
     profilePic = "me.jpg"
-    description = "Content developer, avid learner, coding hobbyist, voracious reader, newbie knitter, trail runner."
+    description = "Content developer, avid learner, coding enthusiast, voracious reader, newbie knitter, trail runner."
     githubUsername = "heathercloward"
     gitlabUsername = "heatherCl"
     accent = "#a71f4b"
