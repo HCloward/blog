@@ -16,7 +16,7 @@ At first I was overwhelmed by all of the things that were involved that I had no
 
 <img src="../../octKittyJekyll.jpg" class="article" id="penguin">
 
-Since I had enjoyed the process so much I recommended our team look into converting our main documentation files to an SSG. My boss's boss was intrigued so I started doing some research. Unfortunately, Jekyll, the SSG I had been using and was familiar with was <a href="https://www.youtube.com/watch?v=2RCqk-nEn90">known for being slow</a> when it included a large amount of files. This problem was the very problem we were trying to solve with Flare, so I started looking into alternatives and was flaberghasted to discover there are <a href="https://www.staticgen.com/">100s of SSGs</a> available.
+Since I had enjoyed the process so much I recommended our team look into converting our main documentation files to an SSG. My boss's boss was intrigued so I started doing some research. Unfortunately, Jekyll, the SSG I had been using and was familiar with was <a href="https://www.youtube.com/watch?v=2RCqk-nEn90">known for being slow</a> when it included a large amount of files. This problem was the very problem we were trying to solve with Flare, so I started looking into alternatives and was flabbergasted to discover there are <a href="https://www.staticgen.com/">100s of SSGs</a> available.
 
 <img src="../../overwhelmed.jpg" class="article">
 
