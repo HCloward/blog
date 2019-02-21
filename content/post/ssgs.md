@@ -4,7 +4,7 @@ date: 2019-02-21
 tags: ["SSG", "Git", "Jekyll"]
 draft: false
 ---
-Recently my team has been looking to update our tooling for a couple of reasons. The main reason is our current tool, MadCap Flare, has become difficult to work with since our project has greatly increased in size. We have well over 2,000 topics and because of our hefty project size, sometimes Flare will time out and adding things like links can become cumbersome. We had discussed simply breaking the project into several Flare projects and then somehow merging the projects upon build time, but since we use Git as our source control and we use conditional text throughout the project, that process could get very complicated.
+Recently my team has been looking to update our tooling for a couple of reasons. The main reason is our current tool, <a href="https://www.madcapsoftware.com/products/flare/">MadCap Flare</a>, has become difficult to work with since our project has greatly increased in size. We have well over 2,000 topics and because of our hefty project size, sometimes Flare will time out and adding things like links can become cumbersome. We had discussed simply breaking the project into several Flare projects and then somehow merging the projects upon build time, but since we use Git as our source control and we use conditional text throughout the project, that process could get very complicated.
 
 <img src="../../pages.jpg" class="article">
 
