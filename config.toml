@@ -1,4 +1,4 @@
-baseURL = "https://hcloward.github.io/blog/"
+baseURL = "https://hcloward.github.io/"
 languageCode = "en-us"
 title = "Heather Cloward"
 theme = "minimal"
