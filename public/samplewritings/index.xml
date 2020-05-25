@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SampleWritings on Heather Cloward</title>
+    <link>https://hcloward.github.io/blog/samplewritings/</link>
+    <description>Recent content in SampleWritings on Heather Cloward</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hcloward.github.io/blog/samplewritings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CloudBees Core developer guide</title>
+      <link>https://hcloward.github.io/blog/samplewritings/developerguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/samplewritings/developerguide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authenticating to CloudBees Core using GitHub App authentication</title>
+      <link>https://hcloward.github.io/blog/samplewritings/githubappauth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/samplewritings/githubappauth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install and Configure the Connector Agent</title>
+      <link>https://hcloward.github.io/blog/samplewritings/agentdoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/samplewritings/agentdoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSG Presentation</title>
+      <link>https://hcloward.github.io/blog/samplewritings/ssgpowerpoint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/samplewritings/ssgpowerpoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docusaurus POC</title>
+      <link>https://hcloward.github.io/blog/samplewritings/docusauruspoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/samplewritings/docusauruspoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Main Benefits from my Udacity Program</title>
+      <link>https://hcloward.github.io/blog/samplewritings/udacityres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/samplewritings/udacityres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting Up a Custom Domain</title>
+      <link>https://hcloward.github.io/blog/samplewritings/article2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/samplewritings/article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complimenting your Site with Teachable</title>
+      <link>https://hcloward.github.io/blog/samplewritings/article1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/samplewritings/article1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application Policy</title>
+      <link>https://hcloward.github.io/blog/samplewritings/applicationpolicy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/samplewritings/applicationpolicy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

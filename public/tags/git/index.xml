@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Heather Cloward</title>
+    <link>https://hcloward.github.io/blog/tags/git/</link>
+    <description>Recent content in Git on Heather Cloward</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hcloward.github.io/blog/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using an SSG for Technical Documentation</title>
+      <link>https://hcloward.github.io/blog/post/ssgs/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/post/ssgs/</guid>
+      <description>Recently my team has been looking to update our tooling for a couple of reasons. The main reason is our current tool, MadCap Flare, has become difficult to work with since our project has greatly increased in size. We have well over 2,000 topics and because of our hefty project size, sometimes Flare will time out and adding things like links can become cumbersome. We had discussed simply breaking the project into several Flare projects and then somehow merging the projects upon build time, but since we use Git as our source control and we use conditional text throughout the project, that process could get very complicated.</description>
+    </item>
+    
+    <item>
+      <title>Using Git with MadCap Flare</title>
+      <link>https://hcloward.github.io/blog/post/using-git-with-madcap-flare/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/post/using-git-with-madcap-flare/</guid>
+      <description>When I first started at my current job, the documentation team was using Subversion as the source control for their MadCap Flare projects. To access Subversion they used a graphical user interface(GUI) called TortoiseSVN. The MadCap Flare project was very large and so checking out the project to make updates took about half an hour. Furthermore, while one person on the team was making updates, the other people on the team could not.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSG on Heather Cloward</title>
+    <link>https://hcloward.github.io/blog/tags/ssg/</link>
+    <description>Recent content in SSG on Heather Cloward</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hcloward.github.io/blog/tags/ssg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entota Help</title>
+      <link>https://hcloward.github.io/blog/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSG Presentation</title>
+      <link>https://hcloward.github.io/blog/samplewritings/ssgpowerpoint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/samplewritings/ssgpowerpoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSP (Syniti) Help</title>
+      <link>https://hcloward.github.io/blog/project/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/project/project5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docusaurus POC</title>
+      <link>https://hcloward.github.io/blog/samplewritings/docusauruspoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/samplewritings/docusauruspoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using an SSG for Technical Documentation</title>
+      <link>https://hcloward.github.io/blog/post/ssgs/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/blog/post/ssgs/</guid>
+      <description>Recently my team has been looking to update our tooling for a couple of reasons. The main reason is our current tool, MadCap Flare, has become difficult to work with since our project has greatly increased in size. We have well over 2,000 topics and because of our hefty project size, sometimes Flare will time out and adding things like links can become cumbersome. We had discussed simply breaking the project into several Flare projects and then somehow merging the projects upon build time, but since we use Git as our source control and we use conditional text throughout the project, that process could get very complicated.</description>
+    </item>
+    
+  </channel>
+</rss>

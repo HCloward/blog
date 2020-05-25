@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/samplewritings/developerguide/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/samplewritings/githubappauth/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/samplewritings/agentdoc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/project/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/project/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/samplewritings/ssgpowerpoint/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/project/project5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/samplewritings/docusauruspoc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/samplewritings/udacityres/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/samplewritings/article2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/samplewritings/article1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/samplewritings/applicationpolicy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/git/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/jekyll/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/post/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/ssg/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/post/ssgs/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/madcap-flare/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/post/using-git-with-madcap-flare/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/administrator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/bash/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/bundler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/cli/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/css/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/developer-centric/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/docusaurus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/flexbox/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/github/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/github-app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/gitlab/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/gulp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/html/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/http/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/javascript/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/kramdown/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/liquid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/markdown/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/pandoc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/policies/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/procedure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/react/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/responsive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/restserver/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/samplewritings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/uikit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/web-accessibility/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/wordpress/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/blog/tags/yaml/</loc>
+  </url>
+  
+</urlset>
