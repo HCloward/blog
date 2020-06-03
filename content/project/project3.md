@@ -4,6 +4,6 @@ description: "I created this site while completing the Front End Developer Nanod
 link: "https://hcloward.github.io/portfolio/"
 repo: "portfolio" # delete this line if you want blog-like posts for projects
 tags: ["gulp", "cli","responsive"]
-weight: 3
+weight: 4
 draft: false
 ---

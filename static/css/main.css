@@ -130,3 +130,20 @@ img.article {
     width: 50%;
     margin-left: 25%;
 }
+
+.admonition-type.info {
+    border-color: #6bf;
+    background-color: rgba(102, 187, 255, 0.1);
+}
+.admonition-type.warning {
+    border-color: #fd6;
+    background-color: rgba(255, 221, 102, 0.1);
+}
+.admonition-type.danger {
+    border-color: #f66;
+    background-color: rgba(255, 102, 102, 0.1);
+}
+.admonition-type.tip {
+    border-color: #69D820;
+    background-color: rgb(105, 216, 32, 0.1);
+}
