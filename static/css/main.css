@@ -147,3 +147,7 @@ blockquote.admonition-type.tip {
     border-color: #69D820;
     background-color: rgb(105, 216, 32, 0.1);
 }
+
+p {
+    text-align: left;
+}

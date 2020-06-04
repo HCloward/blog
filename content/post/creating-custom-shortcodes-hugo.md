@@ -9,7 +9,7 @@ This is another post I am writing because I want to remember how to do it and th
 
 I wanted to create some admonitions in posts for my blog; however, the theme I am using, Minimal, does not include shortcodes for admonitions. I know it is possible to have shortcode admonitions for Hugo, so I decided to see if I could add my own shortcode.
 
-First, I went to the Hugo site and looked in the sample themes to see some examples and determine how the theme creators added them. I looked at <a href="https://themes.gohugo.io/ace-documentation/">Ace documentation</a> and got the basic understanding for how to set up the admonition, but I wanted a different kind of look to my admonitions. Also, Ace documentation depended on Bootstrap and I didn't really feel like adding <a href="https://getbootstrap.com/">Bootstrap to my project</a>.
+First, I went to the Hugo site and looked in the sample themes to see some examples and determine how the theme creators added them. I looked at <a href="https://themes.gohugo.io/ace-documentation/">Ace documentation</a> and got the basic understanding for how to set up the admonition, but I wanted a different kind of look to my admonitions. 
 
 Afterwards, I found the Hugo <a href="https://themes.gohugo.io/hugo-book/">Book theme</a> and really liked what they called <a href="https://themes.gohugo.io/theme/hugo-book/docs/shortcodes/hints/">"hints"</a>. I decided to use their styling; however, they were using <a href="https://sass-lang.com/">Sass</a>, a CSS preprocessor and while I totally think that is the way to go, I didn't really feel like updating my current normal CSS files to Sass. 
 
