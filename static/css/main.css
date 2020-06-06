@@ -151,3 +151,7 @@ blockquote.admonition-type.tip {
 p {
     text-align: left;
 }
+
+p.copyright {
+    text-align: center;
+}
