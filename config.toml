@@ -13,7 +13,7 @@ unsafe= true
 [params]
     author = "Heather Cloward"
     profilePic = "me.jpg"
-    description = "Content developer, avid learner, coding enthusiast, voracious reader, newbie knitter, trail runner."
+    description = "Content developer, avid learner, coding enthusiast, voracious reader, newbie knitter, trail runner. I make dark magic with the words."
     githubUsername = "HCloward"
     gitlabUsername = "heatherCl"
     accent = "#a71f4b"
