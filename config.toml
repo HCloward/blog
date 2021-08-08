@@ -4,7 +4,7 @@ title = "Heather Cloward"
 theme = "minimal"
 #disqusShortname = "username" # delete this to disable disqus comments
 #googleAnalytics = ""
-publishDir= "HCloward.github.io"
+publishDir= "Production"
 enableEmoji= true
 
 [markup.goldmark.renderer]
