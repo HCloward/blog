@@ -3,4 +3,4 @@
 	url = https://github.com/calintat/minimal.git
 [submodule "Production"]
 	path = Production
-	url = https://github.com/HCloward/HCloward.github.io
+	url = git@github.com:HCloward/HCloward.github.io.git
